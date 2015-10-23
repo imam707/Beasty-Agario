@@ -1,0 +1,11 @@
+{
+  "name": "BEASTY",
+  "description": "Agar.io BEASTY",
+  "scripts": {
+    "build": "gulp build",
+    "start": "gulp run",
+    "watch": "gulp watch",
+    "test": "gulp test"
+  },
+  "repository": "https://github.com/huytd/agar.io-clone"
+}
